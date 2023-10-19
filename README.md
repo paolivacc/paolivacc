@@ -1,5 +1,9 @@
 # Hola, soy [Paolí] 👋
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=paolivacc&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolivacc&layout=compact)
+
+🔥 **Mi Racha de Contribuciones**:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paolivacc)
 
 
 🎓 **Educación**:
