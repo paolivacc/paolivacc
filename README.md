@@ -1,8 +1,9 @@
 # Hola, soy [Paolí] 👋
+## Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=paolivacc&show_icons=true&theme=tokyonight)
+## Top Lenguajes
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolivacc&layout=compact)
-
-🔥 **Mi Racha de Contribuciones**:
+## 🔥 **Mi Racha de Contribuciones**:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paolivacc)
 
 
@@ -38,5 +39,9 @@
 ---
 
 ⭐ "Mi propósito en la vida es aumentar mi valor, contribuir de alguna manera a hacer las cosas mejor, y así potenciar el valor de quienes me rodean."
+
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/paolivacc/&title=Visitors)
+
+
 
 
